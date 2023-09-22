@@ -24,13 +24,13 @@ const App = () => {
                     <Space direction="vertical" >
                         <Space wrap >
                             <Button type="primary" shape="round" icon={<FileSearchOutlined />} size={size}>
-                                CV
+                                <a href={require('../assets/file/CoverLetterOwenZhou.pdf')}>CoverLetter</a>
                             </Button>
                             <Button type="primary" shape="round" icon={<DownloadOutlined />} size={size}>
-                                Resume
+                                <a href={require('../assets/file/CVOwenZhou.pdf')}>Resume</a>
                             </Button>
                             <Button type="primary" shape="round" icon={<GithubOutlined />} size={size}>
-                                Github
+                                <a href={'https://github.com/owen-zhou20'}>Github</a>
                             </Button>
                         </Space>
                     </Space>

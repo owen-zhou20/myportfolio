@@ -5,9 +5,8 @@ import Home from './Home'
 import Summary from './Summary'
 import Skills from './Skills'
 import Projects from './Projects'
-import { Menu, Layout, theme } from 'antd';
-import { MailOutlined, BankOutlined, ApartmentOutlined, ContactsOutlined } from '@ant-design/icons';
-
+import { Menu, Layout, theme, FloatButton } from 'antd';
+import { MailOutlined, BankOutlined, ApartmentOutlined, ContactsOutlined, GithubOutlined } from '@ant-design/icons';
 
 
 const { Header, Content, Footer } = Layout;
@@ -46,6 +45,12 @@ const App = () => {
     navigate(e.key, { replace: true })
   };
 
+  const GithubClick = () => {
+    const a = document.createElement('a')
+    a.href = "https://github.com/owen-zhou20"
+    a.click();
+  }
+
   return (
     <Layout>
       <Header
@@ -65,7 +70,7 @@ const App = () => {
           theme="dark"
           mode="horizontal"
           defaultSelectedKeys={['home']}
-          items={items} 
+          items={items}
           style={{ width: '100%' }}
         />
       </Header>
@@ -89,7 +94,17 @@ const App = () => {
             <Route exact path="/projects" element={<Projects />} />
             <Route exact path="/" element={<Navigate to='/home' />} />
           </Routes>
-
+          <FloatButton
+            shape="circle"
+            type="primary"
+            style={{
+              right: 94,
+            }}
+            icon={<GithubOutlined />}
+            description="Github"
+            onClick={() => GithubClick()} >
+          </FloatButton>
+          <FloatButton.BackTop />
         </div>
       </Content>
       <Footer

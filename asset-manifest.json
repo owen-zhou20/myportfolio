@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.c195173d.css",
-    "main.js": "./static/js/main.f871c220.js",
+    "main.js": "./static/js/main.8479b1c3.js",
     "static/js/787.c0fcc0a7.chunk.js": "./static/js/787.c0fcc0a7.chunk.js",
     "static/media/Portfoliopage1.png": "./static/media/Portfoliopage1.d77c50c7e92f5837d59b.png",
     "static/media/Portfoliopage4.png": "./static/media/Portfoliopage4.65b394186e02d14b12b5.png",
@@ -11,8 +11,10 @@
     "static/media/backend1.jpg": "./static/media/backend1.4611d17301dcf40c072f.jpg",
     "static/media/backend4.jpg": "./static/media/backend4.fdba0b8aa490f1ad3dad.jpg",
     "static/media/backend2.jpg": "./static/media/backend2.88d6554ff0fa88600328.jpg",
+    "static/media/CoverLetterOwenZhou.pdf": "./static/media/CoverLetterOwenZhou.336f1877b40e87dade3a.pdf",
     "static/media/Portfoliopage2.png": "./static/media/Portfoliopage2.7ebd143b817f17594876.png",
     "static/media/backend3.jpg": "./static/media/backend3.6e678483a7b900148558.jpg",
+    "static/media/CVOwenZhou.pdf": "./static/media/CVOwenZhou.ac4803b31402fa98ff9d.pdf",
     "static/media/member2.jpg": "./static/media/member2.d0680f4d5e2369360783.jpg",
     "static/media/admin2.jpg": "./static/media/admin2.8ca998e3c1371b4e54fc.jpg",
     "static/media/admin3.jpg": "./static/media/admin3.aa4aedfcc53b8e0b62e6.jpg",
@@ -29,11 +31,11 @@
     "static/media/member4.jpg": "./static/media/member4.50a984b04f33c933107e.jpg",
     "index.html": "./index.html",
     "main.c195173d.css.map": "./static/css/main.c195173d.css.map",
-    "main.f871c220.js.map": "./static/js/main.f871c220.js.map",
+    "main.8479b1c3.js.map": "./static/js/main.8479b1c3.js.map",
     "787.c0fcc0a7.chunk.js.map": "./static/js/787.c0fcc0a7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c195173d.css",
-    "static/js/main.f871c220.js"
+    "static/js/main.8479b1c3.js"
   ]
 }

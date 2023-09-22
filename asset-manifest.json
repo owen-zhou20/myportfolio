@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "./static/css/main.c195173d.css",
+    "main.js": "./static/js/main.5ddb350b.js",
+    "static/js/787.c0fcc0a7.chunk.js": "./static/js/787.c0fcc0a7.chunk.js",
+    "static/media/Portfoliopage1.png": "./static/media/Portfoliopage1.d77c50c7e92f5837d59b.png",
+    "static/media/Portfoliopage4.png": "./static/media/Portfoliopage4.65b394186e02d14b12b5.png",
+    "static/media/Portfoliopage5.png": "./static/media/Portfoliopage5.bded21f2cdff2f1d8b51.png",
+    "static/media/Portfoliopage3.png": "./static/media/Portfoliopage3.3a670e4095175cfad5b2.png",
+    "static/media/Portfoliopage6.png": "./static/media/Portfoliopage6.30c9398f42f9ae1f6606.png",
+    "static/media/backend1.jpg": "./static/media/backend1.4611d17301dcf40c072f.jpg",
+    "static/media/backend4.jpg": "./static/media/backend4.fdba0b8aa490f1ad3dad.jpg",
+    "static/media/backend2.jpg": "./static/media/backend2.88d6554ff0fa88600328.jpg",
+    "static/media/Portfoliopage2.png": "./static/media/Portfoliopage2.7ebd143b817f17594876.png",
+    "static/media/backend3.jpg": "./static/media/backend3.6e678483a7b900148558.jpg",
+    "static/media/member2.jpg": "./static/media/member2.d0680f4d5e2369360783.jpg",
+    "static/media/admin2.jpg": "./static/media/admin2.8ca998e3c1371b4e54fc.jpg",
+    "static/media/admin3.jpg": "./static/media/admin3.aa4aedfcc53b8e0b62e6.jpg",
+    "static/media/member7.jpg": "./static/media/member7.98b080e5f386a0dd10e2.jpg",
+    "static/media/admin4.jpg": "./static/media/admin4.dc525e3f614503c6b6ba.jpg",
+    "static/media/admin6.jpg": "./static/media/admin6.109816d679571f105983.jpg",
+    "static/media/admin5.jpg": "./static/media/admin5.338d888575567eddbd8a.jpg",
+    "static/media/member6.jpg": "./static/media/member6.8fd9944c3c743304945e.jpg",
+    "static/media/member3.jpg": "./static/media/member3.6a9aaba8a3ba767bbf69.jpg",
+    "static/media/member8.jpg": "./static/media/member8.030c89036bb82a5c85c4.jpg",
+    "static/media/member1.jpg": "./static/media/member1.378b9d517db20216e8ea.jpg",
+    "static/media/member5.jpg": "./static/media/member5.64e03ce8088a2417c291.jpg",
+    "static/media/admin1.jpg": "./static/media/admin1.ea0d3afa8066d7b0e50e.jpg",
+    "static/media/member4.jpg": "./static/media/member4.50a984b04f33c933107e.jpg",
+    "index.html": "./index.html",
+    "main.c195173d.css.map": "./static/css/main.c195173d.css.map",
+    "main.5ddb350b.js.map": "./static/js/main.5ddb350b.js.map",
+    "787.c0fcc0a7.chunk.js.map": "./static/js/787.c0fcc0a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c195173d.css",
+    "static/js/main.5ddb350b.js"
+  ]
+}

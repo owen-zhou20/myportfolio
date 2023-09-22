@@ -1,24 +1,22 @@
-import logo from './logo.svg';
+import Main from './components/Main'
+import { ConfigProvider } from 'antd';
+import enUS from 'antd/locale/en_US';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <ConfigProvider locale={enUS} theme={{
+      components: {
+        Card: {
+          actionsBg: '#f0f0f0',
+          headerBg: '#f0f0f0'
+        },
+      },
+    }}>
+      <div className="App">
+        <Main/>
+      </div>
+    </ConfigProvider>
   );
 }
 

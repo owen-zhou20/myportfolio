@@ -25,7 +25,7 @@ const App = () => {
                         </Paragraph>
                         <Paragraph>
                             I'm a <Text type="success" strong>
-                                Java developer, Full stack web developer
+                                Java developer, full stack, web developer
                             </Text>
                             <Text> with experience in web-based applications. </Text>
                         </Paragraph>

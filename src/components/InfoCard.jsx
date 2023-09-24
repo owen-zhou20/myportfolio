@@ -22,7 +22,7 @@ const App = () => (
     <Meta
       avatar={<Avatar src="https://xsgames.co/randomusers/avatar.php?g=pixel" />}
       title="Owen Zhou"
-      description="Java Developer, Full Stack Web Developer"
+      description="Java Developer, Full Stack, Web Developer"
     />
   </Card>
 );
